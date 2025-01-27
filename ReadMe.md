@@ -14,7 +14,7 @@ Tenho grande interesse em **monitoramento de redes**, **suporte em data centers*
 
 ## Projetos em Destaque
 
-1. **[Lista de Cursos/Botcamps realizados]([link_do_projeto](https://github.com/caio164/Cursos-Treinamentos))**: Aqui voce encontra uma lista completa de todos os curos realizados.
+1. **[Lista de Cursos/Botcamps realizados](https://github.com/caio164/Cursos-Treinamentos)**: Aqui voce encontra uma lista completa de todos os curos realizados.
 2. **[Tecnico de Infomrática](link_do_projeto)**: Lista de repositórios de Algumas atividades realizadas durante o curso.
 3. **[Tecnologo em Redes](link_do_projeto)**: Lista de repositórios de Algumas atividades realizadas durante o curso.
 
